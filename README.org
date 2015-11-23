@@ -1,0 +1,10 @@
+I never develop the top-row muscle memory because they are all different.  Here is the start to figuring out what the most intuitive / neutral keymap is.
+
+| Tool                    | Continue | Step Over | Step Into | Step Out      | Run to Point |
+|-------------------------+----------+-----------+-----------+---------------+--------------|
+| Eclipse                 | F8       | F6        | F5        | F7            |              |
+| Firefox Developer Tools |          |           |           |               |              |
+| Firebug                 | F8       | F10       | F11       | <Shift> + F11 |              |
+| JetBrains WebStorm      | F9       | F8        | F7        | <Shift> + F8  | <Alt> + F9   |
+| Visual Studio           | F5       | F10       | F11       | <Shift> + F11 |              |
+|                         |          |           |           |               |              |
