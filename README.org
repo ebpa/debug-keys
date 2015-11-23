@@ -1,4 +1,4 @@
-I never develop the top-row muscle memory because they are all different.  Here is the start to figuring out what the most intuitive / neutral keymap is.
+I never develop the top-row muscle memory because they are all different.  Here is a start to figuring out what the most intuitive / neutral keymap is.  Please send additions!
 
 | Tool                    | Continue | Step Over | Step Into | Step Out      | Run to Point |
 |-------------------------+----------+-----------+-----------+---------------+--------------|
@@ -7,4 +7,3 @@ I never develop the top-row muscle memory because they are all different.  Here 
 | Firebug                 | F8       | F10       | F11       | <Shift> + F11 |              |
 | JetBrains WebStorm      | F9       | F8        | F7        | <Shift> + F8  | <Alt> + F9   |
 | Visual Studio           | F5       | F10       | F11       | <Shift> + F11 |              |
-|                         |          |           |           |               |              |
